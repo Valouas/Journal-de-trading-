@@ -126,7 +126,7 @@ Voir le fichier `LICENSE`.
 
 ## Note finale
 
-Ce bot ne te rendra pas meilleur.
+Ce bot te rendra meilleur.
 
 Il t’expliquera **pourquoi tu l’es parfois**  
 et **pourquoi tu ne l’es pas le reste du temps**.
