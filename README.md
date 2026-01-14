@@ -1,5 +1,5 @@
 # 🃏 Trade Behavior Audit  
-### Un miroir pour les traders lucides
+### Un miroir pour les traders lucides (en developpement)
 
 > Le marché ne te combat pas.  
 > Tes habitudes, si.
