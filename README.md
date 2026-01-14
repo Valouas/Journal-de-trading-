@@ -1,3 +1,140 @@
+# 🃏 Trade Behavior Audit  
+### Un miroir pour les traders lucides
+
+> Le marché ne te combat pas.  
+> Tes habitudes, si.
+
+---
+
+## Ce que c’est
+
+Ce n’est **pas** un bot de trading.  
+Ce n’est **pas** une stratégie.  
+Ce n’est **pas** un générateur de signaux.
+
+C’est un **outil d’audit comportemental** basé sur **l’analyse complète et honnête** de ton historique de trades.
+
+Il ne cherche pas l’erreur.  
+Il cherche **la vérité**.
+
+---
+
+## Ce que fait le bot
+
+Le bot analyse **toutes tes positions**, sans biais ni narration, et met en évidence :
+
+- Performance globale et par direction (LONG / SHORT)
+- PnL, drawdown, expectancy, profit factor
+- Distribution des gains et des pertes
+- Timing des trades (heure, session, durée)
+- Patterns de répétition
+- Discipline et gestion du risque
+- Trades destructeurs et faux bons trades
+- Dégradation comportementale après pertes
+- Revenge trading, overtrading, impatience
+- Ton **edge réel**, pas celui que tu racontes
+
+Les points forts sont identifiés.  
+Les points faibles sont exposés.  
+Aucune complaisance, aucune attaque.
+
+---
+
+## Principe central
+
+La plupart des traders perdent de l’argent  
+non pas parce qu’ils ne savent pas trader,  
+mais parce qu’ils **n’appliquent pas ce qui fonctionne pour eux**.
+
+Ce bot existe pour isoler :
+- ce qui te fait gagner
+- ce qui te fait perdre
+- et ce que tu continues de faire malgré les preuves
+
+---
+
+## Résultat
+
+Le bot produit :
+
+- Un résumé brutal mais factuel
+- Une analyse comportementale complète
+- Des alertes quand le comportement devient destructeur
+- Un profil de trading cohérent (direction, durée, timing)
+- Un “ADN de trade” basé sur tes données réelles
+- Des recommandations simples et hiérarchisées
+
+Ce n’est pas un jugement.  
+C’est un constat.
+
+---
+
+## Ce que ce bot ne fera pas
+
+- ❌ Prédire le marché
+- ❌ Te dire quand entrer ou sortir
+- ❌ Te protéger de toi-même
+- ❌ Transformer un mauvais trader en bon trader
+
+Il te montre **exactement** ce que tu fais.  
+À toi d’assumer la suite.
+
+---
+
+## À qui s’adresse ce projet
+
+- Traders déjà actifs
+- Traders qui ont des données
+- Traders fatigués des indicateurs magiques
+- Personnes qui préfèrent la clarté au confort
+
+Si tu cherches des excuses, ce bot n’en fournit aucune.  
+Si tu cherches de la lucidité, il est là.
+
+---
+
+## Philosophie
+
+Aucun signal.  
+Aucune promesse.  
+Aucune illusion.
+
+Uniquement :
+- des faits
+- des chiffres
+- du comportement
+
+---
+
+## Licence
+
+Usage **non commercial uniquement**.
+
+Tu peux :
+- utiliser
+- étudier
+- modifier
+
+Tu ne peux pas :
+- vendre
+- redistribuer comme produit payant
+- t’approprier ce travail
+
+Voir le fichier `LICENSE`.
+
+---
+
+## Note finale
+
+Ce bot ne te rendra pas meilleur.
+
+Il t’expliquera **pourquoi tu l’es parfois**  
+et **pourquoi tu ne l’es pas le reste du temps**.
+
+Le marché n’a rien à prouver.  
+Toi, si.
+
+
 # 🧠 Trade Behavior Audit
 
 **Analyse comportementale de tes trades MEXC Futures**
